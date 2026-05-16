@@ -34,7 +34,7 @@ INFO_TEXT = (
     "\n"
     f"👑 <b>Хозяин:</b> @OxFF_Dev (<code>1337</code>)\n"
     "\n"
-    f"🤖 <b>Версия бота:</b> <code>1.3 beta</code>\n"
+    f"🤖 <b>Версия бота:</b> <code>1.4 beta</code>\n"
     "⚙️ <b>Статус:</b> Работает стабильно"
 )
 
